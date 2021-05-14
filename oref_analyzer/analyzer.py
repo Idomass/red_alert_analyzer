@@ -36,7 +36,7 @@ class OrefAnalyzer(Session):
     def empty(self):
         return len(self.history) == 0
 
-    def get_history(self, mode: RequestPeriod) -> List:
+    def get_history(self, mode: RequestPeriod) -> List[AlertEntry]:
         """
         gets history from the last period
         """
@@ -45,9 +45,9 @@ class OrefAnalyzer(Session):
                                      f'GetAlarmsHistory.aspx?lang={self.language}&mode={mode.value}')):
             raise ConnectionError('Failed to send request!')
 
-        return [AlertEntry(entry) for entry in response.json()]
+        return sorted(AlertEntry(entry) for entry in response.json())
 
-    def get_alerts(self) -> List:
+    def get_alerts(self) -> List[AlertEntry]:
         """
         gets alerts that are happening right now
         adds them to history
@@ -60,5 +60,9 @@ class OrefAnalyzer(Session):
         alerts = [AlertEntry(location, alert_time) for location in response_as_json['data']]
 
         self.history.extend(alerts)
+        self.history = sorted(self.history)
 
         return alerts
+
+    def __getitem__(self, name: str) -> List[AlertEntry]:
+        return [entry for entry in self.history if entry.location == name]
