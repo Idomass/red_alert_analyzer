@@ -1,4 +1,5 @@
 #! /usr/bin/env python3
+from datetime import datetime
 from enum import Enum
 from oref_analyzer.utils import AlertEntry
 from requests import Session
@@ -36,8 +37,28 @@ class OrefAnalyzer(Session):
         return len(self.history) == 0
 
     def get_history(self, mode: RequestPeriod) -> List:
+        """
+        gets history from the last period
+        """
+
         if not (response := self.get('https://www.oref.org.il//Shared/Ajax/'\
                                      f'GetAlarmsHistory.aspx?lang={self.language}&mode={mode.value}')):
             raise ConnectionError('Failed to send request!')
 
         return [AlertEntry(entry) for entry in response.json()]
+
+    def get_alerts(self) -> List:
+        """
+        gets alerts that are happening right now
+        adds them to history
+        """
+        if not (response := self.get('https://www.oref.org.il/WarningMessages/alert/alerts.json')):
+            raise ConnectionError('Failed to send request!')
+
+        response_as_json = response.json()
+        alert_time = datetime.utcfromtimestamp(response_as_json['id'] / 1000)
+        alerts = [AlertEntry(location, alert_time) for location in response_as_json['data']]
+
+        self.history.extend(alerts)
+
+        return alerts

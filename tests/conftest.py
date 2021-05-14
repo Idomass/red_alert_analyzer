@@ -1,12 +1,12 @@
 import json
 import pytest
 from pytest_mock import MockerFixture
-
 from oref_analyzer import OrefAnalyzer, AlertEntry
 
-class ResponseMock:
+
+class HistoryResponseMock:
 	def json(self):
-		with open('tests/response.json', 'r') as src:
+		with open('tests/history.json', 'r') as src:
 			return json.load(src)
 
 @pytest.fixture()
@@ -24,5 +24,5 @@ def entry(entry_json):
 
 @pytest.fixture()
 def analyzer(mocker: MockerFixture):
-	mocker.patch.object(OrefAnalyzer, 'get', return_value=ResponseMock())
+	mocker.patch.object(OrefAnalyzer, 'get', return_value=HistoryResponseMock())
 	return OrefAnalyzer()
