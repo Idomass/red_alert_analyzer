@@ -1,7 +1,6 @@
 from typing import List
-from oref_analyzer import OrefAnalyzer, AlertEntry
 from datetime import datetime
-from typing import List
+from oref_analyzer import OrefAnalyzer, AlertEntry, RequestPeriod
 
 
 def test_entry_creation(entry: AlertEntry):
@@ -12,8 +11,12 @@ def test_entry_creation(entry: AlertEntry):
 def test_analyzer_creation(analyzer: OrefAnalyzer):
     assert isinstance(analyzer.history, List)
 
-    if len(analyzer.history):
-        for entry in analyzer.history:
-            assert isinstance(entry, AlertEntry)
-    else:
+    if not len(analyzer.history):
         assert analyzer.empty
+
+def test_get_history(analyzer: OrefAnalyzer):
+    history = analyzer.get_history(RequestPeriod.month)
+
+    assert not analyzer.empty
+    for entry in analyzer.history:
+        assert isinstance(entry, AlertEntry)

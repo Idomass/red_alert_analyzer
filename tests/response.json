@@ -1,0 +1,4784 @@
+[
+	{
+		"data": "Kissufim",
+		"date": "14.05.2021",
+		"time": "15:35",
+		"datetime": "2021-05-14T15:36:00"
+	},
+	{
+		"data": "Kissufim",
+		"date": "14.05.2021",
+		"time": "15:31",
+		"datetime": "2021-05-14T15:32:00"
+	},
+	{
+		"data": "Kissufim",
+		"date": "14.05.2021",
+		"time": "15:17",
+		"datetime": "2021-05-14T15:18:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "15:11",
+		"datetime": "2021-05-14T15:11:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "14.05.2021",
+		"time": "15:06",
+		"datetime": "2021-05-14T15:06:00"
+	},
+	{
+		"data": "Kissufim",
+		"date": "14.05.2021",
+		"time": "15:03",
+		"datetime": "2021-05-14T15:03:00"
+	},
+	{
+		"data": "Avigdor",
+		"date": "14.05.2021",
+		"time": "14:59",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Masuot Itzhak",
+		"date": "14.05.2021",
+		"time": "14:59",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Shafir",
+		"date": "14.05.2021",
+		"time": "14:59",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Orot",
+		"date": "14.05.2021",
+		"time": "14:59",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Be'er Tuvia",
+		"date": "14.05.2021",
+		"time": "14:59",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Ein Tzurim",
+		"date": "14.05.2021",
+		"time": "14:58",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Kfar Warburg",
+		"date": "14.05.2021",
+		"time": "14:58",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Kiryat Malachi",
+		"date": "14.05.2021",
+		"time": "14:58",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Talmei Yaffe",
+		"date": "14.05.2021",
+		"time": "14:58",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Merkaz Shapira",
+		"date": "14.05.2021",
+		"time": "14:58",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Kfar Achim",
+		"date": "14.05.2021",
+		"time": "14:58",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Talmei Yehiel",
+		"date": "14.05.2021",
+		"time": "14:58",
+		"datetime": "2021-05-14T14:59:00"
+	},
+	{
+		"data": "Ein HaShlosha",
+		"date": "14.05.2021",
+		"time": "14:38",
+		"datetime": "2021-05-14T14:39:00"
+	},
+	{
+		"data": "Kissufim",
+		"date": "14.05.2021",
+		"time": "14:38",
+		"datetime": "2021-05-14T14:39:00"
+	},
+	{
+		"data": "Even Shmuel",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Kiryat Gat , Karmei Gat",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Uzza",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Eitan",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Tlamim",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Bror Hayil",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Sdeh David",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "13:56",
+		"datetime": "2021-05-14T13:56:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "13:49",
+		"datetime": "2021-05-14T13:50:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "13:49",
+		"datetime": "2021-05-14T13:49:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "13:49",
+		"datetime": "2021-05-14T13:49:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "13:49",
+		"datetime": "2021-05-14T13:49:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "13:49",
+		"datetime": "2021-05-14T13:49:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "13:49",
+		"datetime": "2021-05-14T13:49:00"
+	},
+	{
+		"data": "Kissufim",
+		"date": "14.05.2021",
+		"time": "13:39",
+		"datetime": "2021-05-14T13:40:00"
+	},
+	{
+		"data": "Ein HaShlosha",
+		"date": "14.05.2021",
+		"time": "13:01",
+		"datetime": "2021-05-14T13:01:00"
+	},
+	{
+		"data": "Kissufim",
+		"date": "14.05.2021",
+		"time": "13:00",
+		"datetime": "2021-05-14T13:01:00"
+	},
+	{
+		"data": "Be'eri",
+		"date": "14.05.2021",
+		"time": "12:53",
+		"datetime": "2021-05-14T12:53:00"
+	},
+	{
+		"data": "Zimrat and Shuva",
+		"date": "14.05.2021",
+		"time": "12:53",
+		"datetime": "2021-05-14T12:53:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "14.05.2021",
+		"time": "12:49",
+		"datetime": "2021-05-14T12:49:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "14.05.2021",
+		"time": "12:49",
+		"datetime": "2021-05-14T12:49:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "11:25",
+		"datetime": "2021-05-14T11:25:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "14.05.2021",
+		"time": "10:50",
+		"datetime": "2021-05-14T10:50:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "10:49",
+		"datetime": "2021-05-14T10:50:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "10:49",
+		"datetime": "2021-05-14T10:50:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "10:49",
+		"datetime": "2021-05-14T10:50:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "10:49",
+		"datetime": "2021-05-14T10:50:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "10:04",
+		"datetime": "2021-05-14T10:04:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "10:04",
+		"datetime": "2021-05-14T10:04:00"
+	},
+	{
+		"data": "Magen",
+		"date": "14.05.2021",
+		"time": "09:37",
+		"datetime": "2021-05-14T09:37:00"
+	},
+	{
+		"data": "Ein HaBsor",
+		"date": "14.05.2021",
+		"time": "09:37",
+		"datetime": "2021-05-14T09:37:00"
+	},
+	{
+		"data": "Nirim",
+		"date": "14.05.2021",
+		"time": "09:36",
+		"datetime": "2021-05-14T09:36:00"
+	},
+	{
+		"data": "Nir Oz",
+		"date": "14.05.2021",
+		"time": "09:36",
+		"datetime": "2021-05-14T09:36:00"
+	},
+	{
+		"data": "Ein HaShlosha",
+		"date": "14.05.2021",
+		"time": "09:36",
+		"datetime": "2021-05-14T09:36:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "09:11",
+		"datetime": "2021-05-14T09:11:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "09:11",
+		"datetime": "2021-05-14T09:11:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "09:11",
+		"datetime": "2021-05-14T09:11:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "09:11",
+		"datetime": "2021-05-14T09:11:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "14.05.2021",
+		"time": "08:52",
+		"datetime": "2021-05-14T08:52:00"
+	},
+	{
+		"data": "Mefalsim",
+		"date": "14.05.2021",
+		"time": "08:35",
+		"datetime": "2021-05-14T08:35:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "08:24",
+		"datetime": "2021-05-14T08:25:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "08:24",
+		"datetime": "2021-05-14T08:25:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:36:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:36:00"
+	},
+	{
+		"data": "Hatzor",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Azrikam",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Emunim",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "14.05.2021",
+		"time": "07:35",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Nir Galim",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Bitzaron",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Gan HaDarom",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Kvutzat Yavne",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Gan Yavne",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:35:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "07:34",
+		"datetime": "2021-05-14T07:34:00"
+	},
+	{
+		"data": "Sderot, Ibim",
+		"date": "14.05.2021",
+		"time": "07:25",
+		"datetime": "2021-05-14T07:25:00"
+	},
+	{
+		"data": "Gavim, Sapir College",
+		"date": "14.05.2021",
+		"time": "07:25",
+		"datetime": "2021-05-14T07:25:00"
+	},
+	{
+		"data": "Or HaNer",
+		"date": "14.05.2021",
+		"time": "07:25",
+		"datetime": "2021-05-14T07:25:00"
+	},
+	{
+		"data": "Nir Am",
+		"date": "14.05.2021",
+		"time": "07:25",
+		"datetime": "2021-05-14T07:25:00"
+	},
+	{
+		"data": "Gavim, Sapir College",
+		"date": "14.05.2021",
+		"time": "07:13",
+		"datetime": "2021-05-14T07:13:00"
+	},
+	{
+		"data": "Sderot, Ibim",
+		"date": "14.05.2021",
+		"time": "07:13",
+		"datetime": "2021-05-14T07:13:00"
+	},
+	{
+		"data": "Nir Am",
+		"date": "14.05.2021",
+		"time": "07:13",
+		"datetime": "2021-05-14T07:13:00"
+	},
+	{
+		"data": "Mefalsim",
+		"date": "14.05.2021",
+		"time": "07:13",
+		"datetime": "2021-05-14T07:13:00"
+	},
+	{
+		"data": "Nir- Um shooting range",
+		"date": "14.05.2021",
+		"time": "07:13",
+		"datetime": "2021-05-14T07:13:00"
+	},
+	{
+		"data": "Shokeda",
+		"date": "14.05.2021",
+		"time": "06:11",
+		"datetime": "2021-05-14T06:12:00"
+	},
+	{
+		"data": "Be'eri",
+		"date": "14.05.2021",
+		"time": "06:11",
+		"datetime": "2021-05-14T06:12:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "14.05.2021",
+		"time": "06:11",
+		"datetime": "2021-05-14T06:12:00"
+	},
+	{
+		"data": "Kfar Maimon and Tushia",
+		"date": "14.05.2021",
+		"time": "06:11",
+		"datetime": "2021-05-14T06:12:00"
+	},
+	{
+		"data": "Nir Itzhak",
+		"date": "14.05.2021",
+		"time": "05:38",
+		"datetime": "2021-05-14T05:38:00"
+	},
+	{
+		"data": "Sufa",
+		"date": "14.05.2021",
+		"time": "05:38",
+		"datetime": "2021-05-14T05:38:00"
+	},
+	{
+		"data": "Pri Gan",
+		"date": "14.05.2021",
+		"time": "05:38",
+		"datetime": "2021-05-14T05:38:00"
+	},
+	{
+		"data": "Holit",
+		"date": "14.05.2021",
+		"time": "05:38",
+		"datetime": "2021-05-14T05:38:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:18:00"
+	},
+	{
+		"data": "Nir Galim",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Bnei Darom",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Nitzanim",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Nir Israel",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Emunim",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Azrikam",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Givati",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Gan Yavne",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Ezer",
+		"date": "14.05.2021",
+		"time": "04:17",
+		"datetime": "2021-05-14T04:17:00"
+	},
+	{
+		"data": "Berekhya",
+		"date": "14.05.2021",
+		"time": "02:35",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "14.05.2021",
+		"time": "02:35",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Yavne",
+		"date": "14.05.2021",
+		"time": "02:35",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Bat Hadar",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Ben Zakai",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Nir Galim",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Bnei Darom",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Kfar Silver",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Kfar Mordechai",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Kvutzat Yavne",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Shdema",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Kfar Aviv",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Bnaya",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Meishar",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Gan Yavne",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Kerem BeYavne",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Givat Washington",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Beit Gamliel",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Misgav Dov",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Bnei Darom Compound",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Asseret",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Gan HaDarom",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Bitzaron",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Neveh Mivtach",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Kannot",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Nitzanim",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Nir Israel",
+		"date": "14.05.2021",
+		"time": "02:34",
+		"datetime": "2021-05-14T02:35:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "02:29",
+		"datetime": "2021-05-14T02:29:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "02:29",
+		"datetime": "2021-05-14T02:29:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "02:28",
+		"datetime": "2021-05-14T02:29:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "02:28",
+		"datetime": "2021-05-14T02:29:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:28",
+		"datetime": "2021-05-14T02:29:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "02:28",
+		"datetime": "2021-05-14T02:29:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "02:28",
+		"datetime": "2021-05-14T02:28:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:26",
+		"datetime": "2021-05-14T02:27:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "02:25",
+		"datetime": "2021-05-14T02:26:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "02:25",
+		"datetime": "2021-05-14T02:26:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "02:25",
+		"datetime": "2021-05-14T02:26:00"
+	},
+	{
+		"data": "Bat Hadar",
+		"date": "14.05.2021",
+		"time": "02:25",
+		"datetime": "2021-05-14T02:25:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "02:25",
+		"datetime": "2021-05-14T02:25:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:25",
+		"datetime": "2021-05-14T02:25:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "02:16",
+		"datetime": "2021-05-14T02:17:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "02:16",
+		"datetime": "2021-05-14T02:17:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:16",
+		"datetime": "2021-05-14T02:17:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:16",
+		"datetime": "2021-05-14T02:17:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "14.05.2021",
+		"time": "02:16",
+		"datetime": "2021-05-14T02:17:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "02:16",
+		"datetime": "2021-05-14T02:17:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "02:16",
+		"datetime": "2021-05-14T02:17:00"
+	},
+	{
+		"data": "Berekhya",
+		"date": "14.05.2021",
+		"time": "02:15",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Kfar Silver",
+		"date": "14.05.2021",
+		"time": "02:15",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "02:15",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Bat Hadar",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Ge'a",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Beit Shikma",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:14",
+		"datetime": "2021-05-14T02:15:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Nir Israel",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Nitzanim",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Kfar Silver",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "02:12",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "02:11",
+		"datetime": "2021-05-14T02:12:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "02:11",
+		"datetime": "2021-05-14T02:11:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "14.05.2021",
+		"time": "02:11",
+		"datetime": "2021-05-14T02:11:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "02:11",
+		"datetime": "2021-05-14T02:11:00"
+	},
+	{
+		"data": "Bat Hadar",
+		"date": "14.05.2021",
+		"time": "02:11",
+		"datetime": "2021-05-14T02:11:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:11",
+		"datetime": "2021-05-14T02:11:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:11",
+		"datetime": "2021-05-14T02:11:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "02:11",
+		"datetime": "2021-05-14T02:11:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "02:11",
+		"datetime": "2021-05-14T02:11:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Talmei Yaffe",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Beit Shikma",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Gvaram",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Bat Hadar",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Ge'a",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "02:10",
+		"datetime": "2021-05-14T02:10:00"
+	},
+	{
+		"data": "Neveh Mivtach",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:35:00"
+	},
+	{
+		"data": "Re'em Industrial Park",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:35:00"
+	},
+	{
+		"data": "Meishar",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:35:00"
+	},
+	{
+		"data": "Misgav Dov",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:35:00"
+	},
+	{
+		"data": "Hafetz Haim",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:35:00"
+	},
+	{
+		"data": "Bnei Re'em",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:35:00"
+	},
+	{
+		"data": "Bitzaron",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:35:00"
+	},
+	{
+		"data": "Ganei Tal",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:35:00"
+	},
+	{
+		"data": "Kannot",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:35:00"
+	},
+	{
+		"data": "Beit Elazari",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:34:00"
+	},
+	{
+		"data": "Hatzav",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:34:00"
+	},
+	{
+		"data": "Kidron",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:34:00"
+	},
+	{
+		"data": "Gdera",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:34:00"
+	},
+	{
+		"data": "Bnei Ayish",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:34:00"
+	},
+	{
+		"data": "Kannot Industrial Zone",
+		"date": "14.05.2021",
+		"time": "01:34",
+		"datetime": "2021-05-14T01:34:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "01:33",
+		"datetime": "2021-05-14T01:34:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "01:33",
+		"datetime": "2021-05-14T01:34:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "14.05.2021",
+		"time": "01:33",
+		"datetime": "2021-05-14T01:34:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "14.05.2021",
+		"time": "01:33",
+		"datetime": "2021-05-14T01:33:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "01:33",
+		"datetime": "2021-05-14T01:33:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "01:33",
+		"datetime": "2021-05-14T01:33:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "01:33",
+		"datetime": "2021-05-14T01:33:00"
+	},
+	{
+		"data": "Sa'ad",
+		"date": "14.05.2021",
+		"time": "01:32",
+		"datetime": "2021-05-14T01:32:00"
+	},
+	{
+		"data": "תקומה",
+		"date": "14.05.2021",
+		"time": "01:32",
+		"datetime": "2021-05-14T01:32:00"
+	},
+	{
+		"data": "Netivot",
+		"date": "14.05.2021",
+		"time": "01:32",
+		"datetime": "2021-05-14T01:32:00"
+	},
+	{
+		"data": "Zimrat and Shuva",
+		"date": "14.05.2021",
+		"time": "01:32",
+		"datetime": "2021-05-14T01:32:00"
+	},
+	{
+		"data": "Tkuma and Havat Izra'am",
+		"date": "14.05.2021",
+		"time": "01:32",
+		"datetime": "2021-05-14T01:32:00"
+	},
+	{
+		"data": "Kfar Maimon and Tushia",
+		"date": "14.05.2021",
+		"time": "01:31",
+		"datetime": "2021-05-14T01:32:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "14.05.2021",
+		"time": "01:31",
+		"datetime": "2021-05-14T01:32:00"
+	},
+	{
+		"data": "Be'eri",
+		"date": "14.05.2021",
+		"time": "01:31",
+		"datetime": "2021-05-14T01:32:00"
+	},
+	{
+		"data": "Shokeda",
+		"date": "14.05.2021",
+		"time": "01:31",
+		"datetime": "2021-05-14T01:32:00"
+	},
+	{
+		"data": "Kfar Mordechai",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Bnaya",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ge'alya",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Beit Gamliel",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Maon Tzofia",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ben Zakai",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Yavne",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Bnei Darom Compound",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Kvutzat Yavne",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Shdema",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Kfar Aviv",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Bitzaron",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Givat Washington",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Neveh Mivtach",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Nir Galim",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Asseret",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Hatzor",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Bnei Darom",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Kerem BeYavne",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Misgav Dov",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Azrikam",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Gan HaDarom",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Berekhya",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Hodaya",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Nir Israel",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ezer",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Nitzanim",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Kfar Silver",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Emunim",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Givati",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Gan Yavne",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "14.05.2021",
+		"time": "01:29",
+		"datetime": "2021-05-14T01:29:00"
+	},
+	{
+		"data": "Yevul",
+		"date": "14.05.2021",
+		"time": "01:16",
+		"datetime": "2021-05-14T01:17:00"
+	},
+	{
+		"data": "Kerem Shalom",
+		"date": "14.05.2021",
+		"time": "01:16",
+		"datetime": "2021-05-14T01:17:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "01:16",
+		"datetime": "2021-05-14T01:16:00"
+	},
+	{
+		"data": "Bat Hadar",
+		"date": "14.05.2021",
+		"time": "01:08",
+		"datetime": "2021-05-14T01:09:00"
+	},
+	{
+		"data": "Ge'a",
+		"date": "14.05.2021",
+		"time": "01:08",
+		"datetime": "2021-05-14T01:09:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "14.05.2021",
+		"time": "01:08",
+		"datetime": "2021-05-14T01:09:00"
+	},
+	{
+		"data": "Beit Shikma",
+		"date": "14.05.2021",
+		"time": "01:08",
+		"datetime": "2021-05-14T01:09:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "01:08",
+		"datetime": "2021-05-14T01:09:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "14.05.2021",
+		"time": "01:08",
+		"datetime": "2021-05-14T01:08:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "14.05.2021",
+		"time": "01:08",
+		"datetime": "2021-05-14T01:08:00"
+	},
+	{
+		"data": "Hatzerim",
+		"date": "14.05.2021",
+		"time": "01:04",
+		"datetime": "2021-05-14T01:04:00"
+	},
+	{
+		"data": "Beer Sheva - West",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:04:00"
+	},
+	{
+		"data": "Beer Sheva - East",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:04:00"
+	},
+	{
+		"data": "Magen",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:04:00"
+	},
+	{
+		"data": "Nir Oz",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:04:00"
+	},
+	{
+		"data": "Beer Sheva - North",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:04:00"
+	},
+	{
+		"data": "Beer Sheva - South",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:04:00"
+	},
+	{
+		"data": "מולדה, אל-סייד והפזורה",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:03:00"
+	},
+	{
+		"data": "שגב שלום והפזורה",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:03:00"
+	},
+	{
+		"data": "Tel Sheva",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:03:00"
+	},
+	{
+		"data": "אום בטין והפזורה",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:03:00"
+	},
+	{
+		"data": "Omer",
+		"date": "14.05.2021",
+		"time": "01:03",
+		"datetime": "2021-05-14T01:03:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:02:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:02:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:02:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:02:00"
+	},
+	{
+		"data": "Be'er Tuvia",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:02:00"
+	},
+	{
+		"data": "Givati",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Ezer",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Emunim",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Gan HaDarom",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Hatzor",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Azrikam",
+		"date": "14.05.2021",
+		"time": "01:01",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "14.05.2021",
+		"time": "01:00",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "14.05.2021",
+		"time": "01:00",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "14.05.2021",
+		"time": "01:00",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "14.05.2021",
+		"time": "01:00",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Gan Yavne",
+		"date": "14.05.2021",
+		"time": "01:00",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "14.05.2021",
+		"time": "01:00",
+		"datetime": "2021-05-14T01:01:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "14.05.2021",
+		"time": "01:00",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "14.05.2021",
+		"time": "01:00",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Be'er Tuvia",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Azrikam",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Givati",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Tkuma and Havat Izra'am",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Emunim",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "תקומה",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Sa'ad",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T01:00:00"
+	},
+	{
+		"data": "Zimrat and Shuva",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Be'eri",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Shokeda",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Netivot",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Kfar Maimon and Tushia",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Kerem BeYavne",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Neveh Mivtach",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Givat Washington",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Gan Yavne",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Hatzor",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Kfar Aviv",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Kvutzat Yavne",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Bitzaron",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Nir Galim",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Gan HaDarom",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Bnei Darom",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Bnei Darom Compound",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "14.05.2021",
+		"time": "00:59",
+		"datetime": "2021-05-14T00:59:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "00:43",
+		"datetime": "2021-05-14T00:44:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "14.05.2021",
+		"time": "00:18",
+		"datetime": "2021-05-14T00:19:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "14.05.2021",
+		"time": "00:07",
+		"datetime": "2021-05-14T00:07:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "13.05.2021",
+		"time": "23:33",
+		"datetime": "2021-05-13T23:33:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "23:33",
+		"datetime": "2021-05-13T23:33:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "13.05.2021",
+		"time": "23:33",
+		"datetime": "2021-05-13T23:33:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "13.05.2021",
+		"time": "23:33",
+		"datetime": "2021-05-13T23:33:00"
+	},
+	{
+		"data": "Beer Sheva - South",
+		"date": "13.05.2021",
+		"time": "23:30",
+		"datetime": "2021-05-13T23:31:00"
+	},
+	{
+		"data": "Hatzerim",
+		"date": "13.05.2021",
+		"time": "23:30",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Maslul",
+		"date": "13.05.2021",
+		"time": "23:30",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Renan",
+		"date": "13.05.2021",
+		"time": "23:30",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Merhavim Educational Campus",
+		"date": "13.05.2021",
+		"time": "23:30",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Patish",
+		"date": "13.05.2021",
+		"time": "23:30",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Beer Sheva - East",
+		"date": "13.05.2021",
+		"time": "23:29",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Beer Sheva - West",
+		"date": "13.05.2021",
+		"time": "23:29",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Be'eri",
+		"date": "13.05.2021",
+		"time": "23:29",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Beer Sheva - North",
+		"date": "13.05.2021",
+		"time": "23:29",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Pduim",
+		"date": "13.05.2021",
+		"time": "23:29",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Bitha",
+		"date": "13.05.2021",
+		"time": "23:29",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Ofakim",
+		"date": "13.05.2021",
+		"time": "23:29",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Gilat",
+		"date": "13.05.2021",
+		"time": "23:29",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Omer",
+		"date": "13.05.2021",
+		"time": "23:29",
+		"datetime": "2021-05-13T23:30:00"
+	},
+	{
+		"data": "Kissufim",
+		"date": "13.05.2021",
+		"time": "23:21",
+		"datetime": "2021-05-13T23:21:00"
+	},
+	{
+		"data": "Ein HaShlosha",
+		"date": "13.05.2021",
+		"time": "23:21",
+		"datetime": "2021-05-13T23:21:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "23:06",
+		"datetime": "2021-05-13T23:06:00"
+	},
+	{
+		"data": "Mefalsim",
+		"date": "13.05.2021",
+		"time": "23:06",
+		"datetime": "2021-05-13T23:06:00"
+	},
+	{
+		"data": "Nir Am",
+		"date": "13.05.2021",
+		"time": "23:06",
+		"datetime": "2021-05-13T23:06:00"
+	},
+	{
+		"data": "Nir- Um shooting range",
+		"date": "13.05.2021",
+		"time": "23:06",
+		"datetime": "2021-05-13T23:06:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "23:04",
+		"datetime": "2021-05-13T23:04:00"
+	},
+	{
+		"data": "Mefalsim",
+		"date": "13.05.2021",
+		"time": "23:04",
+		"datetime": "2021-05-13T23:04:00"
+	},
+	{
+		"data": "Nir- Um shooting range",
+		"date": "13.05.2021",
+		"time": "23:04",
+		"datetime": "2021-05-13T23:04:00"
+	},
+	{
+		"data": "Nir Am",
+		"date": "13.05.2021",
+		"time": "23:04",
+		"datetime": "2021-05-13T23:04:00"
+	},
+	{
+		"data": "Sa'ad",
+		"date": "13.05.2021",
+		"time": "23:02",
+		"datetime": "2021-05-13T23:02:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "13.05.2021",
+		"time": "23:02",
+		"datetime": "2021-05-13T23:02:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "23:02",
+		"datetime": "2021-05-13T23:02:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "13.05.2021",
+		"time": "23:02",
+		"datetime": "2021-05-13T23:02:00"
+	},
+	{
+		"data": "Zimrat and Shuva",
+		"date": "13.05.2021",
+		"time": "23:02",
+		"datetime": "2021-05-13T23:02:00"
+	},
+	{
+		"data": "Sa'ad",
+		"date": "13.05.2021",
+		"time": "22:51",
+		"datetime": "2021-05-13T22:52:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "13.05.2021",
+		"time": "22:51",
+		"datetime": "2021-05-13T22:52:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "22:51",
+		"datetime": "2021-05-13T22:52:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "13.05.2021",
+		"time": "22:51",
+		"datetime": "2021-05-13T22:52:00"
+	},
+	{
+		"data": "Emunim",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:39:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:39:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:39:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:39:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:39:00"
+	},
+	{
+		"data": "Hatzor",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:39:00"
+	},
+	{
+		"data": "Ezer",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Givati",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "13.05.2021",
+		"time": "22:38",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Gan HaDarom",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Bnei Darom",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Nir Galim",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Bitzaron",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Kerem BeYavne",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Misgav Dov",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Givat Washington",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Kvutzat Yavne",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Kfar Aviv",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Bnei Darom Compound",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Azrikam",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Gan Yavne",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Emunim",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "13.05.2021",
+		"time": "22:37",
+		"datetime": "2021-05-13T22:38:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "13.05.2021",
+		"time": "22:19",
+		"datetime": "2021-05-13T22:19:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "13.05.2021",
+		"time": "22:19",
+		"datetime": "2021-05-13T22:19:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "13.05.2021",
+		"time": "22:19",
+		"datetime": "2021-05-13T22:19:00"
+	},
+	{
+		"data": "Emunim",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:19:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:19:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:19:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:19:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:19:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "13.05.2021",
+		"time": "22:18",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Azrikam",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "Hatzor",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:18:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Meishar",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Neveh Mivtach",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Asseret",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Misgav Dov",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Kannot",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Bnaya",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Kfar Mordechai",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Shdema",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Gan HaDarom",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Bitzaron",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Gan Yavne",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "13.05.2021",
+		"time": "22:17",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "13.05.2021",
+		"time": "22:16",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "13.05.2021",
+		"time": "22:16",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "13.05.2021",
+		"time": "22:16",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "13.05.2021",
+		"time": "22:16",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:16",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "13.05.2021",
+		"time": "22:16",
+		"datetime": "2021-05-13T22:17:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Emunim",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Ezer",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Givati",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Azrikam",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:16:00"
+	},
+	{
+		"data": "Bnei Darom",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Gan HaDarom",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Gan Yavne",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "13.05.2021",
+		"time": "22:15",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Ahisemech",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Lod",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Ben Shemen",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "מודיעין",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Gimzo",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Kfar Daniel",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Be'er Yacov",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Mevo Modi'im",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Nir Zvi",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Modi'in - Ligad Center",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:15:00"
+	},
+	{
+		"data": "Nesher Industrial Zone (Ramla)",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:14:00"
+	},
+	{
+		"data": "Ramla",
+		"date": "13.05.2021",
+		"time": "22:14",
+		"datetime": "2021-05-13T22:14:00"
+	},
+	{
+		"data": "Beit Nechemia",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:14:00"
+	},
+	{
+		"data": "Gimzo",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Ahisemech",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Ben Shemen",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Kfar Daniel",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Bareket",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Beit Arif",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Kfar Truman",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Ben Shemen Youth Village",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Bnei Atarot",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Ginaton",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Achiezer",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Tirat Yehuda",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Zeitan",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Yagel",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Hadid",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Lod",
+		"date": "13.05.2021",
+		"time": "22:13",
+		"datetime": "2021-05-13T22:13:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "13.05.2021",
+		"time": "22:06",
+		"datetime": "2021-05-13T22:07:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "13.05.2021",
+		"time": "22:06",
+		"datetime": "2021-05-13T22:07:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "22:06",
+		"datetime": "2021-05-13T22:07:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "13.05.2021",
+		"time": "22:06",
+		"datetime": "2021-05-13T22:07:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "13.05.2021",
+		"time": "22:06",
+		"datetime": "2021-05-13T22:07:00"
+	},
+	{
+		"data": "Bnei Darom",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Nir Galim",
+		"date": "13.05.2021",
+		"time": "22:05",
+		"datetime": "2021-05-13T22:06:00"
+	},
+	{
+		"data": "Beit Ezra",
+		"date": "13.05.2021",
+		"time": "22:03",
+		"datetime": "2021-05-13T22:03:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:03",
+		"datetime": "2021-05-13T22:03:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "13.05.2021",
+		"time": "22:03",
+		"datetime": "2021-05-13T22:03:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "13.05.2021",
+		"time": "22:03",
+		"datetime": "2021-05-13T22:03:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "13.05.2021",
+		"time": "22:03",
+		"datetime": "2021-05-13T22:03:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "13.05.2021",
+		"time": "22:02",
+		"datetime": "2021-05-13T22:03:00"
+	},
+	{
+		"data": "Nir Galim",
+		"date": "13.05.2021",
+		"time": "22:02",
+		"datetime": "2021-05-13T22:03:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "13.05.2021",
+		"time": "22:02",
+		"datetime": "2021-05-13T22:03:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "22:02",
+		"datetime": "2021-05-13T22:03:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:02",
+		"datetime": "2021-05-13T22:02:00"
+	},
+	{
+		"data": "Bat Hadar",
+		"date": "13.05.2021",
+		"time": "22:02",
+		"datetime": "2021-05-13T22:02:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "13.05.2021",
+		"time": "22:02",
+		"datetime": "2021-05-13T22:02:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:02",
+		"datetime": "2021-05-13T22:02:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "13.05.2021",
+		"time": "22:01",
+		"datetime": "2021-05-13T22:02:00"
+	},
+	{
+		"data": "Sdeh Uziahu",
+		"date": "13.05.2021",
+		"time": "22:01",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Shtulim",
+		"date": "13.05.2021",
+		"time": "22:01",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "13.05.2021",
+		"time": "22:01",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "22:01",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "13.05.2021",
+		"time": "22:01",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ad Halom Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:01",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Nir Galim",
+		"date": "13.05.2021",
+		"time": "22:01",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Bnei Darom",
+		"date": "13.05.2021",
+		"time": "22:01",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Kfar Silver",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashkelon Northern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Berekhya",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Be'er Ganim",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Beit Shikma",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ge'a",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashdod - Het, Tet, Yod, Yod Gimmel, Yod Dalet, Te*",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashdod - Gimmel, Vav, Zain",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Nitzan",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Bat Hadar",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashdod - Yod Alef, Yod Bet, Tet Vav, Yod Zain, Ma*",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashdod - Alef, Bet, Dalet, Heh",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "13.05.2021",
+		"time": "22:00",
+		"datetime": "2021-05-13T22:01:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "21:34",
+		"datetime": "2021-05-13T21:35:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "13.05.2021",
+		"time": "21:34",
+		"datetime": "2021-05-13T21:34:00"
+	},
+	{
+		"data": "Yakhini",
+		"date": "13.05.2021",
+		"time": "21:25",
+		"datetime": "2021-05-13T21:26:00"
+	},
+	{
+		"data": "אשדוד - אזור תעשייה צפוני ונ",
+		"date": "13.05.2021",
+		"time": "21:05",
+		"datetime": "2021-05-13T21:05:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "13.05.2021",
+		"time": "21:05",
+		"datetime": "2021-05-13T21:05:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "13.05.2021",
+		"time": "21:05",
+		"datetime": "2021-05-13T21:05:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "13.05.2021",
+		"time": "21:05",
+		"datetime": "2021-05-13T21:05:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "13.05.2021",
+		"time": "21:05",
+		"datetime": "2021-05-13T21:05:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "13.05.2021",
+		"time": "21:05",
+		"datetime": "2021-05-13T21:05:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "13.05.2021",
+		"time": "21:05",
+		"datetime": "2021-05-13T21:05:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "21:05",
+		"datetime": "2021-05-13T21:05:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "13.05.2021",
+		"time": "21:01",
+		"datetime": "2021-05-13T21:01:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "13.05.2021",
+		"time": "21:01",
+		"datetime": "2021-05-13T21:01:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "21:01",
+		"datetime": "2021-05-13T21:01:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "13.05.2021",
+		"time": "21:01",
+		"datetime": "2021-05-13T21:01:00"
+	},
+	{
+		"data": "Ge'a",
+		"date": "13.05.2021",
+		"time": "21:01",
+		"datetime": "2021-05-13T21:01:00"
+	},
+	{
+		"data": "Talmei Yaffe",
+		"date": "13.05.2021",
+		"time": "21:01",
+		"datetime": "2021-05-13T21:01:00"
+	},
+	{
+		"data": "Gvaram",
+		"date": "13.05.2021",
+		"time": "21:01",
+		"datetime": "2021-05-13T21:01:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "13.05.2021",
+		"time": "21:01",
+		"datetime": "2021-05-13T21:01:00"
+	},
+	{
+		"data": "Beit Shikma",
+		"date": "13.05.2021",
+		"time": "21:01",
+		"datetime": "2021-05-13T21:01:00"
+	},
+	{
+		"data": "Merhavim Educational Campus",
+		"date": "13.05.2021",
+		"time": "20:26",
+		"datetime": "2021-05-13T20:26:00"
+	},
+	{
+		"data": "Bitha",
+		"date": "13.05.2021",
+		"time": "20:25",
+		"datetime": "2021-05-13T20:26:00"
+	},
+	{
+		"data": "Ofakim",
+		"date": "13.05.2021",
+		"time": "20:25",
+		"datetime": "2021-05-13T20:26:00"
+	},
+	{
+		"data": "Maslul",
+		"date": "13.05.2021",
+		"time": "20:25",
+		"datetime": "2021-05-13T20:26:00"
+	},
+	{
+		"data": "Renan",
+		"date": "13.05.2021",
+		"time": "20:25",
+		"datetime": "2021-05-13T20:26:00"
+	},
+	{
+		"data": "Pduim",
+		"date": "13.05.2021",
+		"time": "20:25",
+		"datetime": "2021-05-13T20:26:00"
+	},
+	{
+		"data": "Patish",
+		"date": "13.05.2021",
+		"time": "20:25",
+		"datetime": "2021-05-13T20:26:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "13.05.2021",
+		"time": "20:18",
+		"datetime": "2021-05-13T20:18:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "13.05.2021",
+		"time": "20:13",
+		"datetime": "2021-05-13T20:13:00"
+	},
+	{
+		"data": "Ofakim",
+		"date": "13.05.2021",
+		"time": "20:11",
+		"datetime": "2021-05-13T20:11:00"
+	},
+	{
+		"data": "Patish",
+		"date": "13.05.2021",
+		"time": "19:56",
+		"datetime": "2021-05-13T19:56:00"
+	},
+	{
+		"data": "Gilat",
+		"date": "13.05.2021",
+		"time": "19:56",
+		"datetime": "2021-05-13T19:56:00"
+	},
+	{
+		"data": "Ofakim",
+		"date": "13.05.2021",
+		"time": "19:56",
+		"datetime": "2021-05-13T19:56:00"
+	},
+	{
+		"data": "Bitha",
+		"date": "13.05.2021",
+		"time": "19:56",
+		"datetime": "2021-05-13T19:56:00"
+	},
+	{
+		"data": "Shibolim",
+		"date": "13.05.2021",
+		"time": "19:56",
+		"datetime": "2021-05-13T19:56:00"
+	},
+	{
+		"data": "Ta'ashur",
+		"date": "13.05.2021",
+		"time": "19:56",
+		"datetime": "2021-05-13T19:56:00"
+	},
+	{
+		"data": "Maagalim Givolim Melilot",
+		"date": "13.05.2021",
+		"time": "19:56",
+		"datetime": "2021-05-13T19:56:00"
+	},
+	{
+		"data": "Brosh",
+		"date": "13.05.2021",
+		"time": "19:56",
+		"datetime": "2021-05-13T19:56:00"
+	},
+	{
+		"data": "Tidhar",
+		"date": "13.05.2021",
+		"time": "19:56",
+		"datetime": "2021-05-13T19:56:00"
+	},
+	{
+		"data": "Gvulot",
+		"date": "13.05.2021",
+		"time": "19:39",
+		"datetime": "2021-05-13T19:40:00"
+	},
+	{
+		"data": "Talmei Eliyahu",
+		"date": "13.05.2021",
+		"time": "19:39",
+		"datetime": "2021-05-13T19:40:00"
+	},
+	{
+		"data": "Tzohar and Ohad",
+		"date": "13.05.2021",
+		"time": "19:39",
+		"datetime": "2021-05-13T19:40:00"
+	},
+	{
+		"data": "מבטחים עמיעוז ישע",
+		"date": "13.05.2021",
+		"time": "19:39",
+		"datetime": "2021-05-13T19:40:00"
+	},
+	{
+		"data": "Sdeh Nitzan",
+		"date": "13.05.2021",
+		"time": "19:39",
+		"datetime": "2021-05-13T19:40:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "19:08",
+		"datetime": "2021-05-13T19:08:00"
+	},
+	{
+		"data": "Pri Gan",
+		"date": "13.05.2021",
+		"time": "18:58",
+		"datetime": "2021-05-13T18:58:00"
+	},
+	{
+		"data": "Sufa",
+		"date": "13.05.2021",
+		"time": "18:58",
+		"datetime": "2021-05-13T18:58:00"
+	},
+	{
+		"data": "Nir Itzhak",
+		"date": "13.05.2021",
+		"time": "18:58",
+		"datetime": "2021-05-13T18:58:00"
+	},
+	{
+		"data": "Sufa",
+		"date": "13.05.2021",
+		"time": "18:50",
+		"datetime": "2021-05-13T18:50:00"
+	},
+	{
+		"data": "Hatzerim",
+		"date": "13.05.2021",
+		"time": "18:48",
+		"datetime": "2021-05-13T18:49:00"
+	},
+	{
+		"data": "Beer Sheva - East",
+		"date": "13.05.2021",
+		"time": "18:48",
+		"datetime": "2021-05-13T18:49:00"
+	},
+	{
+		"data": "Beer Sheva - West",
+		"date": "13.05.2021",
+		"time": "18:48",
+		"datetime": "2021-05-13T18:49:00"
+	},
+	{
+		"data": "Beer Sheva - South",
+		"date": "13.05.2021",
+		"time": "18:48",
+		"datetime": "2021-05-13T18:49:00"
+	},
+	{
+		"data": "Omer",
+		"date": "13.05.2021",
+		"time": "18:48",
+		"datetime": "2021-05-13T18:49:00"
+	},
+	{
+		"data": "שגב שלום והפזורה",
+		"date": "13.05.2021",
+		"time": "18:48",
+		"datetime": "2021-05-13T18:49:00"
+	},
+	{
+		"data": "Beer Sheva - East",
+		"date": "13.05.2021",
+		"time": "18:44",
+		"datetime": "2021-05-13T18:45:00"
+	},
+	{
+		"data": "לקיה והפזורה",
+		"date": "13.05.2021",
+		"time": "18:44",
+		"datetime": "2021-05-13T18:44:00"
+	},
+	{
+		"data": "שגב שלום והפזורה",
+		"date": "13.05.2021",
+		"time": "18:44",
+		"datetime": "2021-05-13T18:44:00"
+	},
+	{
+		"data": "Beer Sheva - West",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:44:00"
+	},
+	{
+		"data": "Beer Sheva - South",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:44:00"
+	},
+	{
+		"data": "Beer Sheva - North",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:44:00"
+	},
+	{
+		"data": "Beer Sheva - East",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:44:00"
+	},
+	{
+		"data": "Omer",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:43:00"
+	},
+	{
+		"data": "אום בטין והפזורה",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:43:00"
+	},
+	{
+		"data": "Tel Sheva",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:43:00"
+	},
+	{
+		"data": "Nevatim",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:43:00"
+	},
+	{
+		"data": "מולדה, אל-סייד והפזורה",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:43:00"
+	},
+	{
+		"data": "אבו-תלול והפזורה",
+		"date": "13.05.2021",
+		"time": "18:43",
+		"datetime": "2021-05-13T18:43:00"
+	},
+	{
+		"data": "Beer Sheva - North",
+		"date": "13.05.2021",
+		"time": "18:24",
+		"datetime": "2021-05-13T18:25:00"
+	},
+	{
+		"data": "Beer Sheva - West",
+		"date": "13.05.2021",
+		"time": "18:24",
+		"datetime": "2021-05-13T18:25:00"
+	},
+	{
+		"data": "Beer Sheva - South",
+		"date": "13.05.2021",
+		"time": "18:24",
+		"datetime": "2021-05-13T18:25:00"
+	},
+	{
+		"data": "Sdeh Nitzan",
+		"date": "13.05.2021",
+		"time": "18:14",
+		"datetime": "2021-05-13T18:15:00"
+	},
+	{
+		"data": "Nir Itzhak",
+		"date": "13.05.2021",
+		"time": "18:14",
+		"datetime": "2021-05-13T18:15:00"
+	},
+	{
+		"data": "Tzohar and Ohad",
+		"date": "13.05.2021",
+		"time": "18:14",
+		"datetime": "2021-05-13T18:15:00"
+	},
+	{
+		"data": "מבטחים עמיעוז ישע",
+		"date": "13.05.2021",
+		"time": "18:14",
+		"datetime": "2021-05-13T18:15:00"
+	},
+	{
+		"data": "Beer Sheva - West",
+		"date": "13.05.2021",
+		"time": "18:03",
+		"datetime": "2021-05-13T18:03:00"
+	},
+	{
+		"data": "Wadi al-Na'am",
+		"date": "13.05.2021",
+		"time": "18:02",
+		"datetime": "2021-05-13T18:03:00"
+	},
+	{
+		"data": "Beer Sheva - East",
+		"date": "13.05.2021",
+		"time": "18:02",
+		"datetime": "2021-05-13T18:03:00"
+	},
+	{
+		"data": "Beer Sheva - North",
+		"date": "13.05.2021",
+		"time": "18:02",
+		"datetime": "2021-05-13T18:03:00"
+	},
+	{
+		"data": "שגב שלום והפזורה",
+		"date": "13.05.2021",
+		"time": "18:02",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Omer",
+		"date": "13.05.2021",
+		"time": "18:02",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "אום בטין והפזורה",
+		"date": "13.05.2021",
+		"time": "18:02",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Tel Sheva",
+		"date": "13.05.2021",
+		"time": "18:02",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "לקיה והפזורה",
+		"date": "13.05.2021",
+		"time": "18:02",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Nir Moshe",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Erez",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:02:00"
+	},
+	{
+		"data": "Gavim, Sapir College",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:01:00"
+	},
+	{
+		"data": "Sderot, Ibim",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:01:00"
+	},
+	{
+		"data": "Nir Am",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:01:00"
+	},
+	{
+		"data": "Nir- Um shooting range",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:01:00"
+	},
+	{
+		"data": "Yakhini",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:01:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "18:01",
+		"datetime": "2021-05-13T18:01:00"
+	},
+	{
+		"data": "Mefalsim",
+		"date": "13.05.2021",
+		"time": "18:00",
+		"datetime": "2021-05-13T18:00:00"
+	},
+	{
+		"data": "Gavim, Sapir College",
+		"date": "13.05.2021",
+		"time": "18:00",
+		"datetime": "2021-05-13T18:00:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "18:00",
+		"datetime": "2021-05-13T18:00:00"
+	},
+	{
+		"data": "Nir- Um shooting range",
+		"date": "13.05.2021",
+		"time": "18:00",
+		"datetime": "2021-05-13T18:00:00"
+	},
+	{
+		"data": "Nir Am",
+		"date": "13.05.2021",
+		"time": "17:59",
+		"datetime": "2021-05-13T17:59:00"
+	},
+	{
+		"data": "Yakhini",
+		"date": "13.05.2021",
+		"time": "17:59",
+		"datetime": "2021-05-13T17:59:00"
+	},
+	{
+		"data": "Mefalsim",
+		"date": "13.05.2021",
+		"time": "17:59",
+		"datetime": "2021-05-13T17:59:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "17:58",
+		"datetime": "2021-05-13T17:58:00"
+	},
+	{
+		"data": "Netiv HaAssara",
+		"date": "13.05.2021",
+		"time": "17:58",
+		"datetime": "2021-05-13T17:58:00"
+	},
+	{
+		"data": "Karmia",
+		"date": "13.05.2021",
+		"time": "17:58",
+		"datetime": "2021-05-13T17:58:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "13.05.2021",
+		"time": "17:58",
+		"datetime": "2021-05-13T17:58:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "13.05.2021",
+		"time": "17:58",
+		"datetime": "2021-05-13T17:58:00"
+	},
+	{
+		"data": "Zikim",
+		"date": "13.05.2021",
+		"time": "17:58",
+		"datetime": "2021-05-13T17:58:00"
+	},
+	{
+		"data": "Yad Mordechai",
+		"date": "13.05.2021",
+		"time": "17:58",
+		"datetime": "2021-05-13T17:58:00"
+	},
+	{
+		"data": "Idan HaNegev Industrial Zone",
+		"date": "13.05.2021",
+		"time": "17:57",
+		"datetime": "2021-05-13T17:57:00"
+	},
+	{
+		"data": "רהט והפזורה",
+		"date": "13.05.2021",
+		"time": "17:57",
+		"datetime": "2021-05-13T17:57:00"
+	},
+	{
+		"data": "Lehavim",
+		"date": "13.05.2021",
+		"time": "17:57",
+		"datetime": "2021-05-13T17:57:00"
+	},
+	{
+		"data": "לקיה והפזורה",
+		"date": "13.05.2021",
+		"time": "17:56",
+		"datetime": "2021-05-13T17:57:00"
+	},
+	{
+		"data": "Nirim",
+		"date": "13.05.2021",
+		"time": "17:48",
+		"datetime": "2021-05-13T17:49:00"
+	},
+	{
+		"data": "Nir Oz",
+		"date": "13.05.2021",
+		"time": "17:48",
+		"datetime": "2021-05-13T17:49:00"
+	},
+	{
+		"data": "Ein HaShlosha",
+		"date": "13.05.2021",
+		"time": "17:48",
+		"datetime": "2021-05-13T17:49:00"
+	},
+	{
+		"data": "Kissufim",
+		"date": "13.05.2021",
+		"time": "17:48",
+		"datetime": "2021-05-13T17:49:00"
+	},
+	{
+		"data": "Yoshivia",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Gavim, Sapir College",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Nir Akiva",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Mefalsim",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Zimrat and Shuva",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Zru'a",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Sa'ad",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Yakhini",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "תקומה",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Shavei Darom",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Nir- Um shooting range",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Nir Moshe",
+		"date": "13.05.2021",
+		"time": "17:47",
+		"datetime": "2021-05-13T17:47:00"
+	},
+	{
+		"data": "Sderot, Ibim",
+		"date": "13.05.2021",
+		"time": "17:43",
+		"datetime": "2021-05-13T17:44:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "13.05.2021",
+		"time": "17:40",
+		"datetime": "2021-05-13T17:40:00"
+	},
+	{
+		"data": "Ashkelon",
+		"date": "13.05.2021",
+		"time": "17:28",
+		"datetime": "2021-05-13T17:29:00"
+	},
+	{
+		"data": "Ashkelon Southern Industrial Zone",
+		"date": "13.05.2021",
+		"time": "17:28",
+		"datetime": "2021-05-13T17:29:00"
+	},
+	{
+		"data": "Mavki'im",
+		"date": "13.05.2021",
+		"time": "17:28",
+		"datetime": "2021-05-13T17:29:00"
+	},
+	{
+		"data": "Sa'ad",
+		"date": "13.05.2021",
+		"time": "17:11",
+		"datetime": "2021-05-13T17:11:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "17:11",
+		"datetime": "2021-05-13T17:11:00"
+	},
+	{
+		"data": "Pri Gan",
+		"date": "13.05.2021",
+		"time": "17:10",
+		"datetime": "2021-05-13T17:10:00"
+	},
+	{
+		"data": "Nir Itzhak",
+		"date": "13.05.2021",
+		"time": "17:10",
+		"datetime": "2021-05-13T17:10:00"
+	},
+	{
+		"data": "Holit",
+		"date": "13.05.2021",
+		"time": "17:10",
+		"datetime": "2021-05-13T17:10:00"
+	},
+	{
+		"data": "Sufa",
+		"date": "13.05.2021",
+		"time": "17:10",
+		"datetime": "2021-05-13T17:10:00"
+	},
+	{
+		"data": "Kerem Shalom",
+		"date": "13.05.2021",
+		"time": "16:53",
+		"datetime": "2021-05-13T16:53:00"
+	},
+	{
+		"data": "Netivot",
+		"date": "13.05.2021",
+		"time": "16:43",
+		"datetime": "2021-05-13T16:43:00"
+	},
+	{
+		"data": "Shokeda",
+		"date": "13.05.2021",
+		"time": "16:42",
+		"datetime": "2021-05-13T16:43:00"
+	},
+	{
+		"data": "Kfar Maimon and Tushia",
+		"date": "13.05.2021",
+		"time": "16:42",
+		"datetime": "2021-05-13T16:43:00"
+	},
+	{
+		"data": "Zimrat and Shuva",
+		"date": "13.05.2021",
+		"time": "16:42",
+		"datetime": "2021-05-13T16:43:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "13.05.2021",
+		"time": "16:42",
+		"datetime": "2021-05-13T16:43:00"
+	},
+	{
+		"data": "Be'eri",
+		"date": "13.05.2021",
+		"time": "16:42",
+		"datetime": "2021-05-13T16:43:00"
+	},
+	{
+		"data": "Sdeh Avraham",
+		"date": "13.05.2021",
+		"time": "16:32",
+		"datetime": "2021-05-13T16:32:00"
+	},
+	{
+		"data": "Talmei Yossef",
+		"date": "13.05.2021",
+		"time": "16:32",
+		"datetime": "2021-05-13T16:32:00"
+	},
+	{
+		"data": "Pri Gan",
+		"date": "13.05.2021",
+		"time": "16:32",
+		"datetime": "2021-05-13T16:32:00"
+	},
+	{
+		"data": "Holit",
+		"date": "13.05.2021",
+		"time": "16:32",
+		"datetime": "2021-05-13T16:32:00"
+	},
+	{
+		"data": "Sufa",
+		"date": "13.05.2021",
+		"time": "16:32",
+		"datetime": "2021-05-13T16:32:00"
+	},
+	{
+		"data": "Nir Itzhak",
+		"date": "13.05.2021",
+		"time": "16:32",
+		"datetime": "2021-05-13T16:32:00"
+	},
+	{
+		"data": "Sa'ad",
+		"date": "13.05.2021",
+		"time": "16:28",
+		"datetime": "2021-05-13T16:28:00"
+	},
+	{
+		"data": "Shokeda",
+		"date": "13.05.2021",
+		"time": "16:28",
+		"datetime": "2021-05-13T16:28:00"
+	},
+	{
+		"data": "Zimrat and Shuva",
+		"date": "13.05.2021",
+		"time": "16:28",
+		"datetime": "2021-05-13T16:28:00"
+	},
+	{
+		"data": "Tkuma and Havat Izra'am",
+		"date": "13.05.2021",
+		"time": "16:28",
+		"datetime": "2021-05-13T16:28:00"
+	},
+	{
+		"data": "Netivot",
+		"date": "13.05.2021",
+		"time": "16:28",
+		"datetime": "2021-05-13T16:28:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "13.05.2021",
+		"time": "16:28",
+		"datetime": "2021-05-13T16:28:00"
+	},
+	{
+		"data": "Kfar Maimon and Tushia",
+		"date": "13.05.2021",
+		"time": "16:28",
+		"datetime": "2021-05-13T16:28:00"
+	},
+	{
+		"data": "Nir Oz",
+		"date": "13.05.2021",
+		"time": "16:21",
+		"datetime": "2021-05-13T16:22:00"
+	},
+	{
+		"data": "Mefalsim",
+		"date": "13.05.2021",
+		"time": "16:13",
+		"datetime": "2021-05-13T16:13:00"
+	},
+	{
+		"data": "Zimrat and Shuva",
+		"date": "13.05.2021",
+		"time": "16:13",
+		"datetime": "2021-05-13T16:13:00"
+	},
+	{
+		"data": "Sa'ad",
+		"date": "13.05.2021",
+		"time": "16:13",
+		"datetime": "2021-05-13T16:13:00"
+	},
+	{
+		"data": "Yakhini",
+		"date": "13.05.2021",
+		"time": "16:13",
+		"datetime": "2021-05-13T16:13:00"
+	},
+	{
+		"data": "Kfar Azza",
+		"date": "13.05.2021",
+		"time": "16:13",
+		"datetime": "2021-05-13T16:13:00"
+	},
+	{
+		"data": "Sderot, Ibim",
+		"date": "13.05.2021",
+		"time": "16:09",
+		"datetime": "2021-05-13T16:10:00"
+	},
+	{
+		"data": "Be'eri",
+		"date": "13.05.2021",
+		"time": "15:58",
+		"datetime": "2021-05-13T15:59:00"
+	},
+	{
+		"data": "Alumim",
+		"date": "13.05.2021",
+		"time": "15:58",
+		"datetime": "2021-05-13T15:58:00"
+	},
+	{
+		"data": "Nachal Oz",
+		"date": "13.05.2021",
+		"time": "15:58",
+		"datetime": "2021-05-13T15:58:00"
+	}
+]
