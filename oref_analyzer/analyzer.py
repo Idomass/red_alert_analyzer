@@ -1,9 +1,12 @@
 #! /usr/bin/env python3
-from datetime import datetime
 from enum import Enum
-from oref_analyzer.utils import AlertEntry
-from requests import Session
 from typing import List
+from requests import Session
+from datetime import datetime
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+from matplotlib.ticker import MaxNLocator
+from oref_analyzer.utils import AlertEntry
 
 
 class RequestPeriod(Enum):
@@ -31,6 +34,21 @@ class OrefAnalyzer(Session):
         }
 
         self.history = self.get_history(RequestPeriod.month)
+
+    def __getitem__(self, name: str) -> List[AlertEntry]:
+        return [entry for entry in self.history if entry.location == name or name in entry.location]
+
+    def _format_history(self, history: List[AlertEntry]) -> None:
+        x_axis = [] # time
+        y_axis = [] # total alerts
+
+        counter = 0
+        for entry in history:
+            x_axis.append(entry.time)
+            y_axis.append(counter)
+            counter += 1
+
+        return x_axis, y_axis
 
     @property
     def empty(self):
@@ -64,5 +82,17 @@ class OrefAnalyzer(Session):
 
         return alerts
 
-    def __getitem__(self, name: str) -> List[AlertEntry]:
-        return [entry for entry in self.history if entry.location == name]
+    def show_history(self, location: str = '', start_date: datetime = datetime.utcfromtimestamp(0)):
+        history = self[location] if location else self.history
+        x_axis, y_axis = self._format_history(entry for entry in history if entry.time > start_date)
+
+        plt.title(f'Red alerts in {location if location else "Israel"}')
+        plt.xlabel('Date')
+        plt.ylabel('Red alerts')
+
+        plt.gcf().autofmt_xdate()
+        plt.plot([start_date] + x_axis, [0] + y_axis)
+        plt.gcf().axes[0].xaxis.set_major_formatter(mdates.DateFormatter('%d-%m-%y %H:%M'))
+        plt.gcf().axes[0].yaxis.set_major_locator(MaxNLocator(integer=True))
+
+        plt.show()
